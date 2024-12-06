@@ -29,6 +29,35 @@
     z-index: 99;
 }
 
+
+
+
+/* mycode  */
+.bg-primary {
+    background-color: #153049 !important;
+}
+
+.Blue_color{
+    color: #153049 !important;
+}
+.Red_color{
+    color: #BA2127!important;
+}
+.background{
+    background-color: #e9d0df !important;
+}
+
+.my_btn{
+    background-color: #BA2127!important;
+    color: #ffffff!important;
+}
+.my_btn:hover {
+    background-color: #153049 !important;
+    color: var(--bs-white);
+}
+
+
+
 h1,
 h2,
 h3,
@@ -229,7 +258,7 @@ h6,
 /*** Hero Header ***/
 .hero-header,
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.05)), url(../img/hero-img.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.05)), url(../img/bd.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
